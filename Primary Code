@@ -1,0 +1,6 @@
+# Install dataflows
+pip install dataflows
+
+# Run the script
+python natural_gas_flow.py
+
